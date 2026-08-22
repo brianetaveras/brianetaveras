@@ -18,10 +18,6 @@ brian@taveras.fun:~$ open https://brian.taveras.fun
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=brianetaveras&background=171717&border=2e2e2e&stroke=2e2e2e&ring=d4976a&fire=e5a87a&currStreakNum=d4d4d4&sideNums=d4d4d4&currStreakLabel=d4976a&sideLabels=d4976a&dates=6b6b6b" alt="Contribution streak" />
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/brianetaveras/brianetaveras/output/graph.svg" alt="Weekly contribution graph" />
 </p>
 
