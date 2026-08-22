@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://brian.taveras.fun"><img width="110" src="https://raw.githubusercontent.com/brianetaveras/brianetaveras/main/assets/logo.svg" alt="Brian Taveras pixel logo" /></a>
+</p>
+
 ```text
 brian@taveras.fun:~$ whoami
 software engineer · builder · tinkerer
