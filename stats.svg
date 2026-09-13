@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="234" viewBox="0 0 400 234" role="img" aria-label="GitHub stats">
+  <rect x="0.75" y="0.75" width="398.5" height="232.5" rx="6" fill="#171717" stroke="#2e2e2e" stroke-width="1.5"/>
+  <circle cx="22" cy="21" r="4.5" fill="#d4976a"/>
+  <circle cx="38" cy="21" r="4.5" fill="#e5a87a"/>
+  <circle cx="54" cy="21" r="4.5" fill="#6b6b6b"/>
+  <text x="72" y="25" font-family="'JetBrains Mono','Cascadia Mono',Consolas,monospace" font-size="12" fill="#6b6b6b">brian@github:~$ gh stats</text>
+  <line x1="14" y1="38" x2="386" y2="38" stroke="#2e2e2e" stroke-width="1"/>
+  <text x="24" y="62" font-family="'JetBrains Mono','Cascadia Mono',Consolas,monospace" font-size="13" fill="#d4976a">stars</text>
+  <text x="376" y="62" text-anchor="end" font-family="'JetBrains Mono','Cascadia Mono',Consolas,monospace" font-size="13" font-weight="700" fill="#d4d4d4">5</text>
+  <text x="24" y="86" font-family="'JetBrains Mono','Cascadia Mono',Consolas,monospace" font-size="13" fill="#d4976a">commits (past year)</text>
+  <text x="376" y="86" text-anchor="end" font-family="'JetBrains Mono','Cascadia Mono',Consolas,monospace" font-size="13" font-weight="700" fill="#d4d4d4">25</text>
+  <text x="24" y="110" font-family="'JetBrains Mono','Cascadia Mono',Consolas,monospace" font-size="13" fill="#d4976a">contributions (past year)</text>
+  <text x="376" y="110" text-anchor="end" font-family="'JetBrains Mono','Cascadia Mono',Consolas,monospace" font-size="13" font-weight="700" fill="#d4d4d4">4.5k</text>
+  <text x="24" y="134" font-family="'JetBrains Mono','Cascadia Mono',Consolas,monospace" font-size="13" fill="#d4976a">pull requests</text>
+  <text x="376" y="134" text-anchor="end" font-family="'JetBrains Mono','Cascadia Mono',Consolas,monospace" font-size="13" font-weight="700" fill="#d4d4d4">131</text>
+  <text x="24" y="158" font-family="'JetBrains Mono','Cascadia Mono',Consolas,monospace" font-size="13" fill="#d4976a">issues</text>
+  <text x="376" y="158" text-anchor="end" font-family="'JetBrains Mono','Cascadia Mono',Consolas,monospace" font-size="13" font-weight="700" fill="#d4d4d4">0</text>
+  <text x="24" y="182" font-family="'JetBrains Mono','Cascadia Mono',Consolas,monospace" font-size="13" fill="#d4976a">reviews</text>
+  <text x="376" y="182" text-anchor="end" font-family="'JetBrains Mono','Cascadia Mono',Consolas,monospace" font-size="13" font-weight="700" fill="#d4d4d4">0</text>
+  <text x="24" y="206" font-family="'JetBrains Mono','Cascadia Mono',Consolas,monospace" font-size="13" fill="#d4976a">followers</text>
+  <text x="376" y="206" text-anchor="end" font-family="'JetBrains Mono','Cascadia Mono',Consolas,monospace" font-size="13" font-weight="700" fill="#d4d4d4">27</text>
+</svg>
