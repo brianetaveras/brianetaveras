@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="816" height="220" viewBox="0 0 816 220" role="img" aria-label="Contribution graph">
+  <rect x="0.75" y="0.75" width="814.5" height="218.5" rx="6" fill="#171717" stroke="#2e2e2e" stroke-width="1.5"/>
+  <circle cx="22" cy="21" r="4.5" fill="#d4976a"/>
+  <circle cx="38" cy="21" r="4.5" fill="#e5a87a"/>
+  <circle cx="54" cy="21" r="4.5" fill="#6b6b6b"/>
+  <text x="72" y="25" font-family="'JetBrains Mono','Cascadia Mono',Consolas,monospace" font-size="12" fill="#6b6b6b">brian@github:~$ gh graph --weekly</text>
+  <line x1="14" y1="38" x2="802" y2="38" stroke="#2e2e2e" stroke-width="1"/>
+  <path d="M24.0 180.3 L38.8 144.6 L53.5 166.7 L68.3 160.2 L83.1 185.6 L97.8 177.4 L112.6 163.8 L127.4 135.1 L142.2 134.3 L156.9 161.4 L171.7 124.9 L186.5 158.1 L201.2 164.7 L216.0 183.1 L230.8 145.4 L245.5 160.2 L260.3 116.3 L275.1 161.0 L289.8 158.1 L304.6 154.8 L319.4 151.9 L334.2 153.2 L348.9 151.9 L363.7 136.4 L378.5 144.2 L393.2 167.5 L408.0 131.8 L422.8 105.6 L437.5 113.8 L452.3 152.8 L467.1 144.6 L481.8 165.1 L496.6 141.3 L511.4 88.4 L526.2 143.3 L540.9 145.0 L555.7 116.7 L570.5 87.1 L585.2 77.3 L600.0 144.6 L614.8 168.4 L629.5 173.3 L644.3 174.9 L659.1 185.6 L673.8 183.1 L688.6 151.5 L703.4 171.2 L718.2 171.2 L732.9 175.3 L747.7 165.9 L762.5 182.7 L777.2 58.0 L792.0 172.5 L792 186 L24 186 Z" fill="#d4976a" opacity="0.12"/>
+  <path d="M24.0 180.3 L38.8 144.6 L53.5 166.7 L68.3 160.2 L83.1 185.6 L97.8 177.4 L112.6 163.8 L127.4 135.1 L142.2 134.3 L156.9 161.4 L171.7 124.9 L186.5 158.1 L201.2 164.7 L216.0 183.1 L230.8 145.4 L245.5 160.2 L260.3 116.3 L275.1 161.0 L289.8 158.1 L304.6 154.8 L319.4 151.9 L334.2 153.2 L348.9 151.9 L363.7 136.4 L378.5 144.2 L393.2 167.5 L408.0 131.8 L422.8 105.6 L437.5 113.8 L452.3 152.8 L467.1 144.6 L481.8 165.1 L496.6 141.3 L511.4 88.4 L526.2 143.3 L540.9 145.0 L555.7 116.7 L570.5 87.1 L585.2 77.3 L600.0 144.6 L614.8 168.4 L629.5 173.3 L644.3 174.9 L659.1 185.6 L673.8 183.1 L688.6 151.5 L703.4 171.2 L718.2 171.2 L732.9 175.3 L747.7 165.9 L762.5 182.7 L777.2 58.0 L792.0 172.5" fill="none" stroke="#d4976a" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="792.0" cy="172.5" r="3.5" fill="#e5a87a"/>
+  <line x1="24" y1="186" x2="792" y2="186" stroke="#2e2e2e" stroke-width="1"/>
+  <text x="792" y="50" text-anchor="end" font-family="'JetBrains Mono','Cascadia Mono',Consolas,monospace" font-size="11" fill="#6b6b6b">max 312/week</text>
+  <text x="24.0" y="206" font-family="'JetBrains Mono','Cascadia Mono',Consolas,monospace" font-size="11" fill="#6b6b6b">Nov</text>
+  <text x="68.3" y="206" font-family="'JetBrains Mono','Cascadia Mono',Consolas,monospace" font-size="11" fill="#6b6b6b">Dec</text>
+  <text x="112.6" y="206" font-family="'JetBrains Mono','Cascadia Mono',Consolas,monospace" font-size="11" fill="#6b6b6b">Jan</text>
+  <text x="171.7" y="206" font-family="'JetBrains Mono','Cascadia Mono',Consolas,monospace" font-size="11" fill="#6b6b6b">Feb</text>
+  <text x="230.8" y="206" font-family="'JetBrains Mono','Cascadia Mono',Consolas,monospace" font-size="11" fill="#6b6b6b">Mar</text>
+  <text x="304.6" y="206" font-family="'JetBrains Mono','Cascadia Mono',Consolas,monospace" font-size="11" fill="#6b6b6b">Apr</text>
+  <text x="363.7" y="206" font-family="'JetBrains Mono','Cascadia Mono',Consolas,monospace" font-size="11" fill="#6b6b6b">May</text>
+  <text x="437.5" y="206" font-family="'JetBrains Mono','Cascadia Mono',Consolas,monospace" font-size="11" fill="#6b6b6b">Jun</text>
+  <text x="496.6" y="206" font-family="'JetBrains Mono','Cascadia Mono',Consolas,monospace" font-size="11" fill="#6b6b6b">Jul</text>
+  <text x="555.7" y="206" font-family="'JetBrains Mono','Cascadia Mono',Consolas,monospace" font-size="11" fill="#6b6b6b">Aug</text>
+  <text x="629.5" y="206" font-family="'JetBrains Mono','Cascadia Mono',Consolas,monospace" font-size="11" fill="#6b6b6b">Sep</text>
+  <text x="688.6" y="206" font-family="'JetBrains Mono','Cascadia Mono',Consolas,monospace" font-size="11" fill="#6b6b6b">Oct</text>
+  <text x="747.7" y="206" font-family="'JetBrains Mono','Cascadia Mono',Consolas,monospace" font-size="11" fill="#6b6b6b">Nov</text>
+</svg>
